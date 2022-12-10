@@ -1,0 +1,16 @@
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.csproj.AssemblyReference.cache
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.AssemblyInfoInputs.cache
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.AssemblyInfo.cs
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\Dice Game.exe
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\Dice Game.deps.json
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\Dice Game.runtimeconfig.json
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\Dice Game.runtimeconfig.dev.json
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\Dice Game.dll
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\ref\Dice Game.dll
+C:\Users\62812\Desktop\Dice Game\bin\Debug\net5.0\Dice Game.pdb
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.dll
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\ref\Dice Game.dll
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.pdb
+C:\Users\62812\Desktop\Dice Game\obj\Debug\net5.0\Dice Game.genruntimeconfig.cache

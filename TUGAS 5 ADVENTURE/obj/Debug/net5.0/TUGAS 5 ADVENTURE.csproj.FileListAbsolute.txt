@@ -1,0 +1,16 @@
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\TUGAS 5 ADVENTURE.exe
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\TUGAS 5 ADVENTURE.deps.json
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\TUGAS 5 ADVENTURE.runtimeconfig.json
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\TUGAS 5 ADVENTURE.runtimeconfig.dev.json
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\TUGAS 5 ADVENTURE.dll
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\ref\TUGAS 5 ADVENTURE.dll
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\bin\Debug\net5.0\TUGAS 5 ADVENTURE.pdb
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.csproj.AssemblyReference.cache
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.AssemblyInfo.cs
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.dll
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\ref\TUGAS 5 ADVENTURE.dll
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.pdb
+C:\Users\62812\OneDrive\Desktop\TUGAS 5 ADVENTURE\obj\Debug\net5.0\TUGAS 5 ADVENTURE.genruntimeconfig.cache

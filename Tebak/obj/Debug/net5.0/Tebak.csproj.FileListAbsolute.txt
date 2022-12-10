@@ -1,0 +1,16 @@
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.csproj.AssemblyReference.cache
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.AssemblyInfoInputs.cache
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.AssemblyInfo.cs
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.csproj.CoreCompileInputs.cache
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\Tebak.exe
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\Tebak.deps.json
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\Tebak.runtimeconfig.json
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\Tebak.runtimeconfig.dev.json
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\Tebak.dll
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\ref\Tebak.dll
+C:\Users\62812\Desktop\Tebak\bin\Debug\net5.0\Tebak.pdb
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.dll
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\ref\Tebak.dll
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.pdb
+C:\Users\62812\Desktop\Tebak\obj\Debug\net5.0\Tebak.genruntimeconfig.cache

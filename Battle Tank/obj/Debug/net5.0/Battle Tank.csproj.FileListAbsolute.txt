@@ -1,0 +1,16 @@
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.csproj.AssemblyReference.cache
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.AssemblyInfo.cs
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\Battle Tank.exe
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\Battle Tank.deps.json
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\Battle Tank.runtimeconfig.json
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\Battle Tank.runtimeconfig.dev.json
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\Battle Tank.dll
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\ref\Battle Tank.dll
+C:\Users\62812\OneDrive\Desktop\Battle Tank\bin\Debug\net5.0\Battle Tank.pdb
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.dll
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\ref\Battle Tank.dll
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.pdb
+C:\Users\62812\OneDrive\Desktop\Battle Tank\obj\Debug\net5.0\Battle Tank.genruntimeconfig.cache

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>To Do App VueJs</title>
+</head>
+
+<body>
+
+    <div id="app">
+        <p>To Do App</p>
+
+        <input type="text" v-model="item">
+        <button type="submit" v-on:click="addItem">Tambah</button>
+
+        <ul>
+            <li v-for="item in items" v-on:click="removeItem(item)">{{item.name}}</li>
+        </ul>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.13/dist/vue.js"></script>
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                item: '',
+                items: [],
+            },
+            methods: {
+                addItem: function () {
+                    var item = {
+                        id: Date.now(),
+                        name: this.item
+                    };
+
+                    this.items.push(item);
+                    this.item = '';
+                },
+                removeItem: function (item) {
+                    var newItems = this.items.filter(function (i) {
+                        return item.id !== i.id;
+                    });
+
+                    this.items = newItems;
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>
