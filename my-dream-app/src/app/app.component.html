@@ -1,0 +1,8 @@
+<div>
+  <h2>
+    Selamat datang di kelas {{matakuliah}}!
+  </h2>
+  <p *ngIf="matakuliah != 'Pemrograman Framework'">Mata kuliah diganti!</p>
+  <button (click)="changematakuliah()">Ganti mata kuliah</button>
+</div>
+<router-outlet></router-outlet>

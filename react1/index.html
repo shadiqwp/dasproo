@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React</title>
+<style>
+    .deleted {
+        color: red;
+    }
+    body {
+        background-color: skyblue;
+    }
+    h2 {
+        color: green;
+    }
+    button {
+        color: blueviolet;
+    }
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+<script type="text/babel">
+class App extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            mk: '',
+            mks: [{
+                id: Math.random(),
+                name: 'Dasar Pemrograman'
+            }],
+            isdelete: false
+        }
+    }
+
+    addmk() {
+        var mk1 = this.state.mks;
+        var inputmk = this.state.mk;
+        mk1.push({
+            id: Math.random(),
+            name: inputmk
+        });
+        this.setState({
+            mks: mk1,
+            mk: ''
+        })
+    }
+
+    removemk(id) {
+        var mk1 = this.state.mks;
+        for(var i = 0; i < mk1.length; i++) {
+            if(mk1[i].id == id) {
+                mk1.splice(i, 1);
+                break;
+            }
+        }
+        this.setState({
+            mks: mk1,
+            isdelete: true
+        })
+    }
+
+    changemk(event) {
+        this.setState({
+            mk: event.target.value
+        })
+    }
+
+    onnSubmit(e) {
+        e.preventDefault();
+    }
+
+    render() {
+        var isdeletetext = '';
+        if(this.state.isdelete) {
+            isdeletetext = 'Mata Kuliah dihapus!';
+            this.state.isdelete = false;
+        }
+        var list = this.state.mks.map(
+         (el) => {
+                return <li key={el.id} onClick={this.removemk.bind(this, el.id)}>{el.name}</li>
+            }
+        );
+        return(
+        <div>
+            <h2>Daftar Mata Kuliah</h2>
+            <form onSubmit={this.onnSubmit.bind(this)}>
+                <input type="text" value={this.state.mk} onChange={this.changemk.bind(this)}/>
+                <button onClick={this.addmk.bind(this)} type="submit">Tambah MK</button>
+            </form>
+            <ul>
+                {list}
+            </ul>
+            <p class='deleted'>{isdeletetext}</p>
+        </div>
+        )
+    }
+}
+
+ReactDOM.render(<App/>, document.querySelector('#app'));
+</script>
+</body>
+</html>
